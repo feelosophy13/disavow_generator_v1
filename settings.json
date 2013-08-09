@@ -1,0 +1,74 @@
+{	
+	"site": "samplewebsite.org",
+	"working_directory": "~/Desktop/backlink_project",
+	"directories_submitted": "false",
+	"backlinks_threshold": 15,
+	"allowed_country_codes": ["US", "UK", "CA", "AU", "SG"],
+	"blacklisted_domains": 
+	[
+		"jamespolnick.com",
+		"bilatergigithalia.com",
+		"pulausumbawanews.com",
+		"alfredho.org",
+		"tooclothesminded.com",
+		"joshcopeland.com",
+		"howardfrenia.com",
+		"howtoplayinstruments.com",
+		"pramsite.com",
+		"joshcopeland.com",
+		"brianleamon.com",
+		"natural-skincare-products.info",
+		"powerfulpanicattackremedy.com",
+		"greenindonesia.net",
+		"irvinsammons.net",
+		"justonbollywood.com"
+	],
+	"blacklisted_domain_keywords":
+	[
+		"porn",
+		"marijuana",
+		"fuck",
+		"adult",
+		"sex",
+		"shit",
+		"nigger",
+		"bastard",
+		"bitch",
+		"blowjob",
+		"cunt",
+		"slut",
+		"weed",
+		"cocaine",
+		"dumbass",
+		"dumbshit",
+		"dyke",
+		"faggot",
+		"whore",
+		"vagina",
+		"titty",
+		"tits",
+		"queer",
+		"humping",
+		"handjob",
+		"kinky",
+		"lesbian",
+		"viagra",
+		"nutsack",
+		"negro",
+		"poop",
+		"pussies",
+		"pussy",
+		"penis"
+	],
+	"whitelisted_domain_keywords":
+	[
+		"vegas",
+		"lv",
+		"nevada",
+		"nv",
+		"702",
+		"dir"
+	]
+} 
+	
+
